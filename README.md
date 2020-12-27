@@ -1,6 +1,9 @@
 ## Hi, I'm Neha 👩💻👋
 <hr>
-- 🔭 I’m currently working on my portfolio.
+💻 Primary coding language: Java
+🔭 I’m currently working on my portfolio.
+🌱 I’m currently learning Cloud Computing.
+😄 Pronouns: She/her
 <!--
 **nehasoni05/nehasoni05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
