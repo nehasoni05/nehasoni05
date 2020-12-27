@@ -14,8 +14,13 @@
 <a href="https://www.facebook.com/profile.php?id=100027831901701" target="_blank"><img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;
 <a href="https://www.instagram.com/nehasoni_._/" target="_blank"><img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>  &nbsp;
   </center>
-  <summary>📊 Github Stats</summary>
+  
+ <details>
+<summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nehasoni05&show_icons=true&theme=gotham" alt="Neha Soni | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 
 </details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
