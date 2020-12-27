@@ -3,7 +3,7 @@
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
   <li>🔭 I’m currently working on my portfolio.</li>
-  <li>🌱 I’m currently learning Cloud Computing.</li>
+  <li>🌱 I’m currently learning Cloud Computing and Full Stack Development</li>
   <li>😄 Pronouns: She/her</li>
   </ul>
 <br>
@@ -29,7 +29,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
  
-
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nehasoni05&langs_count=10&layout=compact&title_color=63cda9" height="190px" />
     
 ### Find me around the web 🌎:
 <center>
