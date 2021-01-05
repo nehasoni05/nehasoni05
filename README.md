@@ -32,7 +32,8 @@
  <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nehasoni05&langs_count=10&layout=compact&title_color=63cda9" width="450px" height="190px" />
    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nehasoni05&" alt="nehasoni"  width="450px" height="190px" />
   </div>
-### Find me around the web 🌎:
+  
+<h3> Find me around the web 🌎:</h3>
 <center>
 <a href="https://www.linkedin.com/in/neha-soni-70a6231b1/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="mailto:nehasoni0523@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
