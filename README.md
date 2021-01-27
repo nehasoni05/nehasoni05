@@ -5,6 +5,8 @@
   <li>💻 Primary coding language: Java </li>
   <li>🔭 I’m currently working on my portfolio.</li>
   <li>🌱 I’m currently learning Cloud Computing and Full Stack Development</li>
+  <li>✔️ 2021 Goals: To Enhance my Development skills
+  <li>⚡ Fun fact: I love to listen Music🎶
   <li>😄 Pronouns: She/her</li>
   </ul>
 <br>
