@@ -42,7 +42,7 @@
 <a href="mailto:nehasoni0523@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100027831901701" target="_blank"><img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp;
 <a href="https://twitter.com/nehasoni__" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
-
+<a href="https://nehasoni.hashnode.dev/" target="_blank"> <img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
 
   </center>
 
