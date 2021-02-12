@@ -22,12 +22,10 @@
     <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
     <br><br>
     
- <details>
-<summary>📊 Github Stats</summary>
+ 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nehasoni05&show_icons=true&theme=gotham" alt="Neha Soni | Stats" />
 
-</details>
 
 
  ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
