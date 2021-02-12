@@ -10,6 +10,7 @@
   <li>😄 Pronouns: She/her</li>
   </ul>
 <br>
+ ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)<br><br>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -26,9 +27,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nehasoni05&show_icons=true&theme=gotham" alt="Neha Soni | Stats" />
 
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
  
  <div><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nehasoni05&langs_count=10&layout=compact&title_color=63cda9" width="400px" height="190px" />
    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nehasoni05&" alt="nehasoni"  width="400px" height="190px" />
