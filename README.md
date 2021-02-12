@@ -9,7 +9,8 @@
   <li>⚡ Fun fact: I love to listen Music🎶
   <li>😄 Pronouns: She/her</li>
   </ul>
-  ### Profile Views:-
+  <br>
+<b>Profile Views:-</b>
 <br>
 
  ![Visitor Count](https://profile-counter.glitch.me/{nehasoni05}/count.svg)
