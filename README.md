@@ -1,5 +1,7 @@
-## Hi, I'm Neha 👩💻👋
-<hr>
+<center><img src="https://user-images.githubusercontent.com/67725607/113097775-2523be00-9215-11eb-9795-e65fd78fa114.gif" width="800" height="300"/></center>
+
+<center> <h2> Hi, I'm Neha 👩💻👋 </h2></center>
+
 <h3>Wanna stalk my website❔👉 <a href="https://nehasoni05.github.io/Neha-Portfolio/index.html">Click Here ✨ </a></h3>
 <ul list-style-type="none">
   <li>💻 Primary coding language: Java </li>
