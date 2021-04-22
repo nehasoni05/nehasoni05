@@ -39,6 +39,7 @@
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://nehasoni.hashnode.dev/)    
 
+## 📈 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nehasoni05&show_icons=true&theme=gotham" alt="Neha Soni | Stats" />
 
  
