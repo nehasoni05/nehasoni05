@@ -32,6 +32,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to JavaScript: Basics](https://nehasoni.hashnode.dev/introduction-to-javascript-basics)
 - [Git & Github: All you need to know](https://nehasoni.hashnode.dev/git-and-github-all-you-need-to-know)
 - [Leveling up with React: React Router](https://nehasoni.hashnode.dev/leveling-up-with-react-react-router)
 - [Introduction to ReactJS](https://nehasoni.hashnode.dev/introduction-to-reactjs)
