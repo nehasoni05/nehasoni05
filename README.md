@@ -56,7 +56,9 @@
 <a href="https://www.instagram.com/nehasoni_._/" target="_blank"><img height="30" src = "https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=instagram&logoColor=red"></a> &nbsp;  
 <a href="https://twitter.com/nehasoni__" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
 <a href="https://nehasoni.hashnode.dev/" target="_blank"> <img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
-
+<a href="https://dev.to/nehasoni__">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Neha Soni's DEV Community Profile" height="30" width="30">
+</a>
   </center>
 
 <br>
