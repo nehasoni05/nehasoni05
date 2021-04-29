@@ -32,11 +32,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [7 JavaScript Data Structures you must know](https://nehasoni.hashnode.dev/7-javascript-data-structures-you-must-know)
 - [Playing with JavaScript Objects](https://nehasoni.hashnode.dev/playing-with-javascript-objects-1)
 - [Introduction to JavaScript: Basics](https://nehasoni.hashnode.dev/introduction-to-javascript-basics)
 - [Git & Github: All you need to know](https://nehasoni.hashnode.dev/git-and-github-all-you-need-to-know)
 - [Leveling up with React: React Router](https://nehasoni.hashnode.dev/leveling-up-with-react-react-router)
-- [Introduction to ReactJS](https://nehasoni.hashnode.dev/introduction-to-reactjs)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://nehasoni.hashnode.dev/)    
 
