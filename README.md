@@ -32,11 +32,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [25+  JavaScript Project With Source Code to Build your Skills](https://nehasoni.hashnode.dev/25-javascript-project-with-source-code-to-build-your-skills)
 - [Random Quote Generator Using HTML, CSS, and JavaScript](https://nehasoni.hashnode.dev/random-quote-generator-using-html-css-and-javascript)
 - [Digital Clock using JavaScript](https://nehasoni.hashnode.dev/digital-clock-using-javascript)
 - [7 JavaScript Data Structures you must know](https://nehasoni.hashnode.dev/7-javascript-data-structures-you-must-know)
 - [Playing with JavaScript Objects](https://nehasoni.hashnode.dev/playing-with-javascript-objects-1)
-- [Introduction to JavaScript: Basics](https://nehasoni.hashnode.dev/introduction-to-javascript-basics)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://nehasoni.hashnode.dev/)    
 
