@@ -32,11 +32,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing- An Overview](https://nehasoni.hashnode.dev/cloud-computing-an-overview)
 - [How to Build a Strong Professional Network Online](https://nehasoni.hashnode.dev/how-to-build-a-strong-professional-network-online)
 - [Plasma Donation Website](https://nehasoni.hashnode.dev/plasma-donation-website)
 - [25+  JavaScript Project With Source Code to Build your Skills](https://nehasoni.hashnode.dev/25-javascript-project-with-source-code-to-build-your-skills)
 - [Random Quote Generator Using HTML, CSS, and JavaScript](https://nehasoni.hashnode.dev/random-quote-generator-using-html-css-and-javascript)
-- [Digital Clock using JavaScript](https://nehasoni.hashnode.dev/digital-clock-using-javascript)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://nehasoni.hashnode.dev/)    
 
