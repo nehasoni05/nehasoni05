@@ -32,11 +32,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Curated List of Ultimate Java Resources 🧵](https://nehasoni.hashnode.dev/the-curated-list-of-ultimate-java-resources)
 - [Top 10 Useful GitHub Repos for Self-Development](https://nehasoni.hashnode.dev/top-10-useful-github-repos-for-self-development)
 - [How to SetUp Billing Alarm in AWS](https://nehasoni.hashnode.dev/how-to-setup-billing-alarm-in-aws)
 - [Amazon Web Services- An Overview](https://nehasoni.hashnode.dev/amazon-web-services-an-overview)
 - [Cloud Computing- An Overview](https://nehasoni.hashnode.dev/cloud-computing-an-overview)
-- [How to Build a Strong Professional Network Online](https://nehasoni.hashnode.dev/how-to-build-a-strong-professional-network-online)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://nehasoni.hashnode.dev/)    
 
