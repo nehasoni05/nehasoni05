@@ -32,11 +32,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Power of console.table() in JavaScript💪🏻😎](https://nehasoni.hashnode.dev/power-of-consoletable-in-javascript)
 - [The Curated List of Ultimate Java Resources 🧵](https://nehasoni.hashnode.dev/the-curated-list-of-ultimate-java-resources)
 - [Top 10 Useful GitHub Repos for Self-Development](https://nehasoni.hashnode.dev/top-10-useful-github-repos-for-self-development)
 - [How to SetUp Billing Alarm in AWS](https://nehasoni.hashnode.dev/how-to-setup-billing-alarm-in-aws)
 - [Amazon Web Services- An Overview](https://nehasoni.hashnode.dev/amazon-web-services-an-overview)
+- [Cloud Computing- An Overview](https://nehasoni.hashnode.dev/cloud-computing-an-overview)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://nehasoni.hashnode.dev/)    
 
