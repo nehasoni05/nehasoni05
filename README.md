@@ -34,7 +34,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [IAM Identities: Users, User Groups and IAM Roles](https://nehasoni.hashnode.dev/iam-identities-users-user-groups-and-iam-roles)
 - [Create an amazing Image Search App using Pexels API](https://nehasoni.hashnode.dev/create-an-amazing-image-search-app-using-pexels-api)
-- [Power of console.table() in JavaScript💪🏻😎](https://nehasoni.hashnode.dev/power-of-consoletable-in-javascript)
+- [Power of console.table&lpar;&rpar; in JavaScript💪🏻😎](https://nehasoni.hashnode.dev/power-of-consoletable-in-javascript)
 - [The Curated List of Ultimate Java Resources 🧵](https://nehasoni.hashnode.dev/the-curated-list-of-ultimate-java-resources)
 - [Top 10 Useful GitHub Repos for Self-Development](https://nehasoni.hashnode.dev/top-10-useful-github-repos-for-self-development)
 <!-- BLOG-POST-LIST:END -->
